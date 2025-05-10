@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Anil Sharma 👋</h1>
 
 <p align="left">
-  🚀 Frontend Developer | 📊 Finance Blogger at <a href="https://investwithbull.com" target="_blank">Invest With Bull</a><br/>
-  🧠 Building design systems & simplifying money for the Indian middle class
+  🚀 Frontend Developer<br>
+  
 </p>
 ###
 
