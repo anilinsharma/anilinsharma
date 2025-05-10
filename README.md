@@ -1,5 +1,9 @@
-<h1 align="left">Hi 👋! My name isAnil Sharma and I'm a Frontend Developer from Chandigarh India</h1>
+<h1 align="center">Hey, I'm Anil Sharma 👋</h1>
 
+<p align="center">
+  🚀 Frontend Developer | 📊 Finance Blogger at <a href="https://investwithbull.com" target="_blank">Invest With Bull</a><br/>
+  🧠 Building design systems & simplifying money for the Indian middle class
+</p>
 ###
 
 <br clear="both">
