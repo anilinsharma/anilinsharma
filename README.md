@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Anil Sharma 👋</h1>
+<h1 align="left">Hey, I'm Anil Sharma 👋</h1>
 
 <p align="left">
   🚀 Frontend Developer<br>
