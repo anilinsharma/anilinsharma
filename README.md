@@ -48,6 +48,6 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Anil Sharma, a front-end developer with 10 years of experience. Passionate about crafting intuitive user experiences with clean, maintainable code. Let's build something amazing together!</p>
+<p align="left">👋 Hi, I'm Anil Sharma, a front-end developer with 14 years of experience. Passionate about crafting intuitive user experiences with clean, maintainable code. Let's build something amazing together!</p>
 
 ###
