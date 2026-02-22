@@ -1,65 +1,47 @@
-<h1 align="center">Hi there, I'm Anil Sharma 👋</h1>
-<h3 align="center">Frontend Developer | Senior Process Manager | Web Accessibility Advocate</h3>
-
-<p align="center">
-  With 14 years of experience, I am passionate about crafting intuitive, high-performance user experiences with clean and maintainable code. I specialize in front-end development, UI architecture, and making the web accessible for everyone.
-</p>
-
-<p align="center">
+<div align="center">
+  <h1>Hi, I'm Anil Sharma 👋</h1>
+  <h3>Senior Front-End Developer | Web Accessibility Specialist | Tech Leader</h3>
+  <p>Crafting intuitive, accessible, and high-performance digital experiences.</p>
+  
   <a href="https://www.linkedin.com/in/anilinsharma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-13.5k+_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://investwithbull.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Invest_With_Bull-1081c2?style=for-the-badge&logo=web&logoColor=white" alt="Blog" />
+  <a href="https://anilsharma.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-anilsharma.dev-20232A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
-### 🚀 What I'm Currently Working On
+## 👨‍💻 Professional Highlights
 
-* 🏗️ **Building Millennium:** Developing a scalable UI component library using **Storybook**.
-* 🌐 **Crafting my Corner of the Web:** Building my personal portfolio at `anilsharma.dev` from the ground up using plain HTML and CSS.
-* ♿ **Championing Accessibility (A11y):** Currently holding a DHS certification in web accessibility and actively preparing for the **IAAP Web Accessibility Specialist (WAS)** exam.
-* ✍️ **Writing "Beyond the Browser":** Publishing a LinkedIn newsletter focused on Front-end Development and AI for a community of over 2,000 subscribers.
-* 📈 **Co-managing Invest with Bull:** Running a personal finance and investing blog focused on the Indian market.
+- 🏢 **Leadership & Engineering:** Over 14 years of experience delivering robust web solutions, optimizing UI architecture, and leading high-performing engineering teams.
+- ♿ **Web Accessibility (A11y):** DHS Certified in Web Accessibility, actively championing inclusive web design and pursuing the IAAP WAS certification.
+- ✍️ **Tech Evangelist:** Author of the **Beyond the Browser** newsletter, sharing insights on Front-end Development, AI, and SEO with over 2,000 subscribers.
+- 🚀 **Current Focus:** Building a ground-up, highly optimized personal portfolio using pure HTML/CSS to maximize performance and search engine visibility.
 
----
+<br/>
 
-### 💻 My Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS" title="AngularJS" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" title="Storybook" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" title="WordPress" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" title="Photoshop" />
-</p>
+**Front-End & Architecture** <br/>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" title="AngularJS" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" /></code>
 
----
+**Design & CMS** <br/>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" title="Photoshop" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" title="WordPress" /></code>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Anil's GitHub Stats" />
-</p>
+## 📊 Analytics & Open Source
 
----
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333&bg_color=FFFFFF" alt="Anil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=0077B5&text_color=333333&bg_color=FFFFFF" alt="Top Languages" width="48%" />
+</div>
