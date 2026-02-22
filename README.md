@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Anil Sharma 👋</h1>
-  <h3>Senior Front-End Developer | Web Accessibility Specialist | Tech Leader</h3>
+  <h3>Senior Front-End Developer | Senior Process Manager | Web Accessibility Specialist</h3>
   <p>Crafting intuitive, accessible, and high-performance digital experiences.</p>
   
   <a href="https://www.linkedin.com/in/anilinsharma/" target="_blank">
@@ -16,15 +16,15 @@
 ## 👨‍💻 Professional Highlights
 
 - 🏢 **Leadership & Engineering:** Over 14 years of experience delivering robust web solutions, optimizing UI architecture, and leading high-performing engineering teams.
-- ♿ **Web Accessibility (A11y):** DHS Certified in Web Accessibility, actively championing inclusive web design and pursuing the IAAP WAS certification.
-- ✍️ **Tech Evangelist:** Author of the **Beyond the Browser** newsletter, sharing insights on Front-end Development, AI, and SEO with over 2,000 subscribers.
-- 🚀 **Current Focus:** Building a ground-up, highly optimized personal portfolio using pure HTML/CSS to maximize performance and search engine visibility.
+- ♿ **Web Accessibility (A11y):** DHS Certified in Web Accessibility, actively championing inclusive web design and preparing for the IAAP Web Accessibility Specialist (WAS) certification.
+- ✍️ **Tech Evangelist:** Author of the **Beyond the Browser** newsletter, sharing insights on Front-end Development, Artificial Intelligence, and SEO with over 2,000 subscribers.
+- 🚀 **Current Focus:** Building a ground-up, highly optimized personal portfolio using pure HTML and CSS to maximize performance and search engine visibility.
 
 <br/>
 
 ## 🛠️ Tech Stack & Tools
 
-**Front-End & Architecture** <br/>
+**Front-End Architecture** <br/>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" /></code>
@@ -42,6 +42,18 @@
 ## 📊 Analytics & Open Source
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333&bg_color=FFFFFF" alt="Anil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=0077B5&text_color=333333&bg_color=FFFFFF" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="195" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_ACTUAL_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
 </div>
